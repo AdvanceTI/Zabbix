@@ -1,218 +1,218 @@
 [
   {
-    "key": "RV-RENALSRV02", 
-    "latitude": -26.925887268180,
-    "longitude": -49.068163437700,
-    "name": "Renal Vida - RENALSRV02" 
+    "name": "RV-RENALSRV02", 
+    "location_lat": -26.925887268180,
+    "location_lon": -49.068163437700,
+    "key": "Renal Vida - RENALSRV02" 
   },
   {
-    "key": "RV-RENALSRV04", 
-    "latitude": -26.925887268180,
-    "longitude": -49.068163437700,
-    "name": "Renal Vida - RENALSRV04" 
+    "name": "RV-RENALSRV04", 
+    "location_lat": -26.925887268180,
+    "location_lon": -49.068163437700,
+    "key": "Renal Vida - RENALSRV04" 
   },
   {
-    "key": "RV-RENALSRV06", 
-    "latitude": -26.925887268180,
-    "longitude": -49.068163437700,
-    "name": "Renal Vida - RENALSRV06" 
+    "name": "RV-RENALSRV06", 
+    "location_lat": -26.925887268180,
+    "location_lon": -49.068163437700,
+    "key": "Renal Vida - RENALSRV06" 
   },
   {
-    "key": "RV-RENALSRV07", 
-    "latitude": -26.925887268180,
-    "longitude": -49.068163437700,
-    "name": "Renal Vida - RENALSRV07" 
+    "name": "RV-RENALSRV07", 
+    "location_lat": -26.925887268180,
+    "location_lon": -49.068163437700,
+    "key": "Renal Vida - RENALSRV07" 
   },
   {
-    "key": "RV-RENALSRV09", 
-    "latitude": -26.953941259301,
-    "longitude": -48.641310802753,
-    "name": "Renal Vida - RENALSRV09" 
+    "name": "RV-RENALSRV09", 
+    "location_lat": -26.953941259301,
+    "location_lon": -48.641310802753,
+    "key": "Renal Vida - RENALSRV09" 
   },
   {
-    "key": "RV-SRV-BRQ", 
-    "latitude": -27.126005206580,
-    "longitude": -48.921401600229,
-    "name": "Renal Vida - BRQ - SRV-BRQ" 
+    "name": "RV-SRV-BRQ", 
+    "location_lat": -27.126005206580,
+    "location_lon": -48.921401600229,
+    "key": "Renal Vida - BRQ - SRV-BRQ" 
   },
   {
-    "key": "RV-Fortigate-BRQ", 
-    "latitude": -27.126005206580,
-    "longitude": -48.921401600229,
-    "name": "Renal Vida - Fortigate - BRQ" 
+    "name": "RV-Fortigate-BRQ", 
+    "location_lat": -27.126005206580,
+    "location_lon": -48.921401600229,
+    "key": "Renal Vida - Fortigate - BRQ" 
   },
   {
-    "key": "RV-Fortigate-ITJ", 
-    "latitude": -26.953941259301,
-    "longitude": -48.641310802753,
-    "name": "Renal Vida - Fortigate - ITJ" 
+    "name": "RV-Fortigate-ITJ", 
+    "location_lat": -26.953941259301,
+    "location_lon": -48.641310802753,
+    "key": "Renal Vida - Fortigate - ITJ" 
   },
   {
-    "key": "RV-Fortigate-RDS", 
-    "latitude": -27.218845167813,
-    "longitude": -49.644013940469,
-    "name": "Renal Vida - Fortigate - RDS" 
+    "name": "RV-Fortigate-RDS", 
+    "location_lat": -27.218845167813,
+    "location_lon": -49.644013940469,
+    "key": "Renal Vida - Fortigate - RDS" 
   },
   {
-    "key": "RV-SRV-HYPERV3", 
-    "latitude": -26.953941259301,
-    "longitude": -48.641310802753,
-    "name": "Renal Vida - SRV-HYPERV3" 
+    "name": "RV-SRV-HYPERV3", 
+    "location_lat": -26.953941259301,
+    "location_lon": -48.641310802753,
+    "key": "Renal Vida - SRV-HYPERV3" 
   },
   {
-    "key": "RV-RENALSRV10", 
-    "latitude": -26.953941259301,
-    "longitude": -48.641310802753,
-    "name": "Renal Vida - RENALSRV10" 
+    "name": "RV-RENALSRV10", 
+    "location_lat": -26.953941259301,
+    "location_lon": -48.641310802753,
+    "key": "Renal Vida - RENALSRV10" 
   },
   {
-    "key": "RV-RDS-GW-ULTRANET", 
-    "latitude": -27.218845167813,
-    "longitude": -49.644013940469,
-    "name": "Renal Vida - RDS - GW - Ultranet" 
+    "name": "RV-RDS-GW-ULTRANET", 
+    "location_lat": -27.218845167813,
+    "location_lon": -49.644013940469,
+    "key": "Renal Vida - RDS - GW - Ultranet" 
   },
   {
-    "key": "RV-ITJ-GW-ALGAR", 
-    "latitude": -26.953941259301,
-    "longitude": -48.641310802753,
-    "name": "Renal Vida - ITJ - GW - Algar Telecom" 
+    "name": "RV-ITJ-GW-ALGAR", 
+    "location_lat": -26.953941259301,
+    "location_lon": -48.641310802753,
+    "key": "Renal Vida - ITJ - GW - Algar Telecom" 
   },
   {
-    "key": "RV-BRQ-GW-UNIFIQUE", 
-    "latitude": -27.126005206580,
-    "longitude": -48.921401600229,
-    "name": "Renal Vida - BRQ - GW - Unifique" 
+    "name": "RV-BRQ-GW-UNIFIQUE", 
+    "location_lat": -27.126005206580,
+    "location_lon": -48.921401600229,
+    "key": "Renal Vida - BRQ - GW - Unifique" 
   },
   {
-    "key": "RV-TBO-GW-UNIFIQUE", 
-    "latitude": -26.826032416290,
-    "longitude": -49.272879707153,
-    "name": "Renal Vida - TBO - GW - Unifique" 
+    "name": "RV-TBO-GW-UNIFIQUE", 
+    "location_lat": -26.826032416290,
+    "location_lon": -49.272879707153,
+    "key": "Renal Vida - TBO - GW - Unifique" 
   },
   {
-    "key": "RV-TBO-AP-TBO", 
-    "latitude": -26.826032416290,
-    "longitude": -49.272879707153,
-    "name": "Renal Vida - TBO-AP-TBO" 
+    "name": "RV-TBO-AP-TBO", 
+    "location_lat": -26.826032416290,
+    "location_lon": -49.272879707153,
+    "key": "Renal Vida - TBO-AP-TBO" 
   },
   {
-    "key": "RV-TBO-CENTRAL-TEL", 
-    "latitude": -26.826032416290,
-    "longitude": -49.272879707153,
-    "name": "Renal Vida - TBO-CENTRAL-TEL" 
+    "name": "RV-TBO-CENTRAL-TEL", 
+    "location_lat": -26.826032416290,
+    "location_lon": -49.272879707153,
+    "key": "Renal Vida - TBO-CENTRAL-TEL" 
   },
   {
-    "key": "RV-RDS-CENTRAL-TEL", 
-    "latitude": -27.218845167813,
-    "longitude": -49.644013940469,
-    "name": "Renal Vida - RDS-CENTRAL-TEL" 
+    "name": "RV-RDS-CENTRAL-TEL", 
+    "location_lat": -27.218845167813,
+    "location_lon": -49.644013940469,
+    "key": "Renal Vida - RDS-CENTRAL-TEL" 
   },
   {
-    "key": "RV-ITJ-IDRAC-HV03", 
-    "latitude": -26.953941259301,
-    "longitude": -48.641310802753,
-    "name": "Renal Vida - ITJ-IDRAC-HV03" 
+    "name": "RV-ITJ-IDRAC-HV03", 
+    "location_lat": -26.953941259301,
+    "location_lon": -48.641310802753,
+    "key": "Renal Vida - ITJ-IDRAC-HV03" 
   },
   {
-    "key": "RV-ITJ-GW-UNIFIQUE", 
-    "latitude": -26.953941259301,
-    "longitude": -48.641310802753,
-    "name": "Renal Vida - ITJ - GW - Unifique" 
+    "name": "RV-ITJ-GW-UNIFIQUE", 
+    "location_lat": -26.953941259301,
+    "location_lon": -48.641310802753,
+    "key": "Renal Vida - ITJ - GW - Unifique" 
   },
   {
-    "key": "RV-Fortigate-TBO", 
-    "latitude": -26.826032416290,
-    "longitude": -49.272879707153,
-    "name": "Renal Vida - Fortigate - TBO" 
+    "name": "RV-Fortigate-TBO", 
+    "location_lat": -26.826032416290,
+    "location_lon": -49.272879707153,
+    "key": "Renal Vida - Fortigate - TBO" 
   },
   {
-    "key": "RV-BRQ-UBIQUITI-HD", 
-    "latitude": -27.126005206580,
-    "longitude": -48.921401600229,
-    "name": "Renal Vida - BRQ - UBQT Hemodialise" 
+    "name": "RV-BRQ-UBIQUITI-HD", 
+    "location_lat": -27.126005206580,
+    "location_lon": -48.921401600229,
+    "key": "Renal Vida - BRQ - UBQT Hemodialise" 
   },
   {
-    "key": "RV-BRQ-UBIQUITI-RECEPCAO", 
-    "latitude": -27.126005206580,
-    "longitude": -48.921401600229,
-    "name": "Renal Vida - BRQ - UBQT Recepcao" 
+    "name": "RV-BRQ-UBIQUITI-RECEPCAO", 
+    "location_lat": -27.126005206580,
+    "location_lon": -48.921401600229,
+    "key": "Renal Vida - BRQ - UBQT Recepcao" 
   },
   {
-    "key": "RV-ZBX-PRXY", 
-    "latitude": -26.925887268180,
-    "longitude": -49.068163437700,
-    "name": "Renal Vida - Zabbix Proxy" 
+    "name": "RV-ZBX-PRXY", 
+    "location_lat": -26.925887268180,
+    "location_lon": -49.068163437700,
+    "key": "Renal Vida - Zabbix Proxy" 
   },
   {
-    "key": "RV-BNU-IDRAC-HV00", 
-    "latitude": -26.925887268180,
-    "longitude": -49.068163437700,
-    "name": "Renal Vida - BNU-IDRAC-HV00" 
+    "name": "RV-BNU-IDRAC-HV00", 
+    "location_lat": -26.925887268180,
+    "location_lon": -49.068163437700,
+    "key": "Renal Vida - BNU-IDRAC-HV00" 
   },
   {
-    "key": "RV-SRV-HYPERV0", 
-    "latitude": -26.925887268180,
-    "longitude": -49.068163437700,
-    "name": "Renal Vida - SRV-HYPERV0" 
+    "name": "RV-SRV-HYPERV0", 
+    "location_lat": -26.925887268180,
+    "location_lon": -49.068163437700,
+    "key": "Renal Vida - SRV-HYPERV0" 
   },
   {
-    "key": "RV-RENALSRV05", 
-    "latitude": -26.925887268180,
-    "longitude": -49.068163437700,
-    "name": "Renal Vida - RENALSRV05" 
+    "name": "RV-RENALSRV05", 
+    "location_lat": -26.925887268180,
+    "location_lon": -49.068163437700,
+    "key": "Renal Vida - RENALSRV05" 
   },
   {
-    "key": "RV-RDS-GW-UNIFIQUE", 
-    "latitude": -27.218845167813,
-    "longitude": -49.644013940469,
-    "name": "Renal Vida - RDS - GW - Unifique" 
+    "name": "RV-RDS-GW-UNIFIQUE", 
+    "location_lat": -27.218845167813,
+    "location_lon": -49.644013940469,
+    "key": "Renal Vida - RDS - GW - Unifique" 
   },
   {
-    "key": "RV-RENALSRV11", 
-    "latitude": -26.953941259301,
-    "longitude": -48.641310802753,
-    "name": "Renal Vida - RENALSRV11" 
+    "name": "RV-RENALSRV11", 
+    "location_lat": -26.953941259301,
+    "location_lon": -48.641310802753,
+    "key": "Renal Vida - RENALSRV11" 
   },
   {
-    "key": "RV-RENALSRV00", 
-    "latitude": -26.925887268180,
-    "longitude": -49.068163437700,
-    "name": "Renal Vida - RENALSRV00" 
+    "name": "RV-RENALSRV00", 
+    "location_lat": -26.925887268180,
+    "location_lon": -49.068163437700,
+    "key": "Renal Vida - RENALSRV00" 
   },
   {
-    "key": "RV-Fortigate-BNU-NOVA-SEDE", 
-    "latitude": -26.925887268180,
-    "longitude": -49.068163437700,
-    "name": "Renal Vida - Fortigate - Blumenau" 
+    "name": "RV-Fortigate-BNU-NOVA-SEDE", 
+    "location_lat": -26.925887268180,
+    "location_lon": -49.068163437700,
+    "key": "Renal Vida - Fortigate - Blumenau" 
   },
   {
-    "key": "RV-GW-UNIFIQUE-BLUMENAU", 
-    "latitude": -26.925887268180,
-    "longitude": -49.068163437700,
-    "name": "Renal Vida - Nova Sede - GW - Unifique" 
+    "name": "RV-GW-UNIFIQUE-BLUMENAU", 
+    "location_lat": -26.925887268180,
+    "location_lon": -49.068163437700,
+    "key": "Renal Vida - Nova Sede - GW - Unifique" 
   },
   {
-    "key": "RV-GW-ALGAR-BLUMENAU", 
-    "latitude": -26.925887268180,
-    "longitude": -49.068163437700,
-    "name": "Renal Vida - Nova Sede - GW - Algar" 
+    "name": "RV-GW-ALGAR-BLUMENAU", 
+    "location_lat": -26.925887268180,
+    "location_lon": -49.068163437700,
+    "key": "Renal Vida - Nova Sede - GW - Algar" 
   },
   {
-    "key": "RV-RENALSRV12", 
-    "latitude": -26.925887268180,
-    "longitude": -49.068163437700,
-    "name": "Renal Vida - RENALSRV12" 
+    "name": "RV-RENALSRV12", 
+    "location_lat": -26.925887268180,
+    "location_lon": -49.068163437700,
+    "key": "Renal Vida - RENALSRV12" 
   },
   {
-    "key": "RV-RENALSRV13", 
-    "latitude": -26.925887268180,
-    "longitude": -49.068163437700,
-    "name": "Renal Vida - RENALSRV13" 
+    "name": "RV-RENALSRV13", 
+    "location_lat": -26.925887268180,
+    "location_lon": -49.068163437700,
+    "key": "Renal Vida - RENALSRV13" 
   },
   {
-    "key": "RV-SRV-HYPERV1", 
-    "latitude": -26.925887268180,
-    "longitude": -49.068163437700,
-    "name": "Renal Vida - SRV-HYPERV1" 
+    "name": "RV-SRV-HYPERV1", 
+    "location_lat": -26.925887268180,
+    "location_lon": -49.068163437700,
+    "key": "Renal Vida - SRV-HYPERV1" 
   }
 ]
